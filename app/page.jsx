@@ -19,13 +19,13 @@ const App = () => {
 
     try {
       const res = await fetch(
-        "https://aurum79-langflow.hf.space/api/v1/run/3fef6708-aae3-47d0-910a-eda9b36fb370?stream=false",
+        "https://aurum79-langflow.hf.space/api/v1/run/38c154f5-d743-4ec9-afad-d753a2b92b17?stream=false",
         {
           method: "POST",
           headers: {
             Authorization: "Bearer <TOKEN>",
             "Content-Type": "application/json",
-            "x-api-key": process.env.LANGFLOW_KEY,
+            "x-api-key": "sk-E3H0S7l1zWHCgYg2_QYgTqvODu1cCBg7PlK0IerwQtw",
           },
           body: JSON.stringify({
             input_value: inputValue,
