@@ -19,7 +19,7 @@ const App = () => {
 
     try {
       const res = await fetch(
-        "http://0.0.0.0:7860/api/v1/run/3fef6708-aae3-47d0-910a-eda9b36fb370?stream=false",
+        "https://aurum79-langflow.hf.space/api/v1/run/3fef6708-aae3-47d0-910a-eda9b36fb370?stream=false",
         {
           method: "POST",
           headers: {
