@@ -12,7 +12,7 @@ export default {
                     {
                         key: 'Access-Control-Allow-Origin',
                         // Replace with your domain
-                        value: 'https://social-insights-pied.vercel.app/',
+                        value: '*',
                     },
                     {
                         key: 'Access-Control-Allow-Methods',
