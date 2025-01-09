@@ -18,7 +18,6 @@ class LangflowClient {
       const response = await fetch(url, {
         method: "POST",
         headers: headers,
-        mode: "no-cors",
         body: JSON.stringify(body),
       });
 
