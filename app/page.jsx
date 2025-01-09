@@ -19,7 +19,7 @@ const App = () => {
 
     try {
       const res = await fetch(
-        "http://127.0.0.1:7861/api/v1/run/3fef6708-aae3-47d0-910a-eda9b36fb370?stream=false",
+        "http://0.0.0.0:7860/api/v1/run/3fef6708-aae3-47d0-910a-eda9b36fb370?stream=false",
         {
           method: "POST",
           headers: {
