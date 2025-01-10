@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is our submission for the Level Supermind Hackathon pre-assignment by Team felix! Introducing Social Insights, a powerful platform for social media performance analysis, developed using Langflow and DataStax Astra DB.
 
-## Getting Started
+A big shoutout to @HiteshCodeLab, @SakshamChoudharyOfficial, @LevelSuperMind, and @BeerBiceps for organizing such an incredible hackathon! 🔥
 
-First, run the development server:
+We are also immensely grateful to @Langflow and @DataStax for their amazing tools that made this project possible.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+In this video, we will take you through:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1️⃣ Problem Statement: Learn about the challenges we aimed to address through PostPulse.
+2️⃣ Langflow and AstraDB Integration: Discover how Langflow orchestrates data ingestion, processing, and seamless insights generation.
+3️⃣ Live Demo: Watch PostPulse in action as it delivers real-time insights for social media analytics.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+💡 Key Features:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Real-time analysis of social media engagement data.
+Customizable insights tailored for diverse content types.
+Scalable architecture powered by DataStax Astra DB.
 
-## Learn More
+Langflow Workflow:
 
-To learn more about Next.js, take a look at the following resources:
+![image](https://github.com/user-attachments/assets/dbb77c56-13f8-4200-976a-8645c394f7d1)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🔗 Links:
+Demo Video: https://youtu.be/snZmI2m1PeA
+Live Demo: https://social-insights-pied.vercel.app/
 
-## Deploy on Vercel
+Team Members:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Prathamesh Sankhe
+Ghruank Kothare
+Amal Verma
+Kartikay Pandey
